@@ -2,6 +2,7 @@
 
 I'm Graham, a developer based on beautiful Salt Spring Island near Vancouver BC.  I work with web technologies such as React, Astro and NextJs from a foundation of HTML, CSS and Javascript knowledge.  I alos work in game development, adding audio to Unity games with the help of C# and the FNOD middleware.
 
+![GVPproj's GitHub stats](https://github-readme-stats.vercel.app/api?username=GVPproj&count_private=true)
 
 
 <!--
