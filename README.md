@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! 👋
+
+I'm Graham, a developer based on beautiful Salt Spring Island, BC.  I work with web technologies such as React, Astro and NextJs from a foundation of HTML, CSS and Javascript knowledge.  I alos work in game development, adding audio to Unity games with the help of C# and the FNOD middleware.
+
+
 
 <!--
 **GVPproj/GVPproj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
