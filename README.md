@@ -1,4 +1,6 @@
-### Hello from beautiful Salt Spring Island 🌲⛰️🌊
+# Graham Van Pelt
+
+Hello from beautiful Salt Spring Island! 🌲⛰️🌊
 
 I'm Graham, a **web developer** and **game developer** based in British Columbia, Canada.  
 
