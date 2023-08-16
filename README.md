@@ -8,9 +8,10 @@ I'm Graham, a **web developer** and **game developer** based in British Columbia
 
 I work with _web technologies_ such as:
 
-* ⚛ React
-* 🧮 Astro, NextJS
-* 🎨 TailwindCSS
+* ⚛ React, Redux and Redux Toolkit
+* 🧮 Astro, NextJS & Remix
+* 📡 GraphQL
+* 🎨 TailwindCSS and ChakraUI
 * ⌨️ HTML, CSS, JS
 
 I also work in _game audio and development_:
