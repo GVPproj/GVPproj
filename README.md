@@ -20,8 +20,6 @@ I also work in _game audio and development_:
 * 🎚️ FMOD
 * ⌨️ C#
 
-![GVPproj's GitHub stats](https://github-readme-stats.vercel.app/api?username=GVPproj&count_private=true)
-
 
 <!--
 **GVPproj/GVPproj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
