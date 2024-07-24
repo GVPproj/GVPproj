@@ -2,23 +2,23 @@
 
 Hello from beautiful Salt Spring Island! 🌲⛰️🌊
 
-I'm Graham, a **web developer** and **game developer** based in British Columbia, Canada.  
+I'm Graham, a software developer based in western Canada.  
 
 ## Skills
 
-I work with _web technologies_ such as:
+I work with web technologies such as:
 
+* ⌨️ HTML, CSS and TypeScript
 * ⚛ React, Redux and Redux Toolkit
-* 🧮 Astro, NextJS & Remix
+* 🧮 Astro, NextJS and Remix
 * 📡 GraphQL
 * 🎨 TailwindCSS and ChakraUI
-* ⌨️ HTML, CSS, JS
 
-I also work in _game audio and development_:
+I also work in game development (primarily on the audio side):
 
-* 🎮 Unity
-* 🎚️ FMOD
 * ⌨️ C#
+* 🎮 Unity
+* 🎚️ FMOD (audio middleware)
 
 
 <!--
