@@ -7,12 +7,14 @@ Hello from beautiful Salt Spring Island! 🌲⛰️🌊
 
 I'm Graham, a software developer based in western Canada.  
 
+
+
+## Skills
+
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPproj&count_private=true&langs_count=7&hide=html,postscript&layout=compact&theme=solarized-dark"
 />
-
-## Skills
 
 I work with technologies such as:
 
