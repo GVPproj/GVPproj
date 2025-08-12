@@ -7,21 +7,27 @@ Hello from beautiful Salt Spring Island! 🌲⛰️🌊
 
 I'm Graham, a software developer based in western Canada.  
 
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPproj&count_private=true&langs_count=7&hide=html,postscript&layout=compact&theme=solarized-dark"
+/>
+
 ## Skills
 
-I work with web technologies such as:
+I work with technologies such as:
 
 * ⌨️ TypeScript, Python, CSS and SQL
 * ⚛ React, Redux and Redux Toolkit
-* 🧮 Astro, NextJS and Remix
-* 📡 GraphQL
-* 🎨 TailwindCSS and ChakraUI
+* 🧮 Astro, NextJS, Textual
+* 📡 GraphQL, REST, grok
+* 🎨 TailwindCSS, PandaCSS and ChakraUI
 
 I also work in game development (primarily on the audio side):
 
 * ⌨️ C#
 * 🎮 Unity
 * 🎚️ FMOD (audio middleware)
+
 
 
 <!--
