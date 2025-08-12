@@ -1,5 +1,7 @@
 # Graham Van Pelt
 
+![location](https://img.shields.io/badge/location-🇨🇦%20Salt%20Spring%20Island-green) [![Editor](https://img.shields.io/badge/editor-lazyvim-48D1CC)](https://github.com/LazyVim/LazyVim)
+
 Hello from beautiful Salt Spring Island! 🌲⛰️🌊
 
 I'm Graham, a software developer based in western Canada.  
