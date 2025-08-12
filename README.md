@@ -1,7 +1,7 @@
 # Graham Van Pelt
  
-![location](https://img.shields.io/badge/location-🇨🇦%20Salt%20Spring%20Island-green) [![Shell](https://img.shields.io/badge/shell-fish-midnightblue)](https://github.com/fish-shell/fish-shell) 
- [![Editor](https://img.shields.io/badge/editor-lazyvim-48D1CC)](https://github.com/LazyVim/LazyVim) 
+![location](https://img.shields.io/badge/location-🇨🇦%20Salt%20Spring%20Island-darkseagreen) [![Shell](https://img.shields.io/badge/shell-fish-midnightblue)](https://github.com/fish-shell/fish-shell) 
+ [![Editor](https://img.shields.io/badge/editor-lazyvim-lightseagreen)](https://github.com/LazyVim/LazyVim) 
  
 Hello from beautiful Salt Spring Island! 🌲⛰️🌊
 
