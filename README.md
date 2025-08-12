@@ -8,7 +8,7 @@ I'm Graham, a software developer based in western Canada.
 
 I work with web technologies such as:
 
-* ⌨️ HTML, CSS and TypeScript
+* ⌨️ TypeScript, Python, CSS and SQL
 * ⚛ React, Redux and Redux Toolkit
 * 🧮 Astro, NextJS and Remix
 * 📡 GraphQL
