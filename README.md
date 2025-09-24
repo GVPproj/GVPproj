@@ -5,7 +5,7 @@
  
 Hello! 🌲⛰️🌊
 
-I'm Graham, a software developer based in western Canada.  
+I'm Graham.  I build web applications using Typescript up and down the stack at my day job.  In my spare time I'm diving into cli tools with Golang and Python to make my technical life easier and more independent.
 
 
 
