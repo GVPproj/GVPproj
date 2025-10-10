@@ -18,13 +18,13 @@ I'm Graham.  I build web applications using Typescript up and down the stack, bo
 
 I work with technologies such as:
 
-* ⌨️ TypeScript, Python, CSS and SQL
-* ⚛ React, Redux and Redux Toolkit
-* 🧮 Astro, NextJS, Textual
-* 📡 GraphQL, REST, grok
+* ⌨️ TypeScript, Go, Python, CSS and SQL
+* ⚛ React and Redux
+* 🧮 Astro, NextJS, Textual, BubbleTea
+* 📡 GraphQL, REST, ORMs
 * 🎨 TailwindCSS, PandaCSS and ChakraUI
 
-I also work in game development (primarily on the audio side):
+I also do a little game development (primarily on the audio side):
 
 * ⌨️ C#
 * 🎮 Unity
