@@ -5,7 +5,7 @@
  
 Hello! 🌲⛰️🌊
 
-I'm Graham.  I build web applications using Typescript up and down the stack, both at my day-job and on hobby projects for friends in my local community.  In my spare time I'm diving into cli tools with Golang and Python to make my technical life easier and more independent.
+I'm Graham.  I build web applications using Typescript up and down the stack, both at my day-job and on hobby projects for friends in my local community.
 
 
 
