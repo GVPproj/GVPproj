@@ -9,6 +9,7 @@ I'm Graham.  I build web applications and terminal things, both at my day-job an
 
 Current interests include Golang, servers, web animation, and a bit of local-first.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GVPproj&layout=compact)
 
 ## Skills
 
