@@ -5,24 +5,17 @@
  
 Hello! 🌲⛰️🌊
 
-I'm Graham.  I build web applications using Typescript up and down the stack, both at my day-job and on hobby projects for friends in my local community.
+I'm Graham.  I build web applications and terminal things, both at my day-job and on hobby projects with pals in my local community.
 
+Current interests include Golang, servers, web-animation, and a bit of local-first.
 
 
 ## Skills
 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVPproj&count_private=true&langs_count=7&hide=html,postscript&layout=compact&theme=solarized-dark"
-/>
-
 I work with technologies such as:
 
-* ⌨️ TypeScript, Go, Python, CSS and SQL
-* ⚛ React and Redux
-* 🧮 Astro, NextJS, Textual, BubbleTea
-* 📡 GraphQL, REST, ORMs
-* 🎨 TailwindCSS, PandaCSS and ChakraUI
+* ⌨️ TypeScript, Go, sometimes Python
+* ⚛ React and Redux, bit of Svelte, lots of Astro
 
 I also do a little game development (primarily on the audio side):
 
