@@ -7,7 +7,7 @@ Hello! 🌲⛰️🌊
 
 I'm Graham.  I build web applications and terminal things, both at my day-job and on hobby projects with pals in my local community.
 
-Current interests include Golang, servers, web-animation, and a bit of local-first.
+Current interests include Golang, servers, web animation, and a bit of local-first.
 
 
 ## Skills
