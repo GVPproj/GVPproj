@@ -13,4 +13,5 @@ Current interests include server apps with golang, design (in general), and nati
 
 * Web tech: Astro, Templ, Datastar... React if need be
 * Servers: Go
+* AI: Pi, Herdr
 * Audio: Klanghelm, Aberrant DSP, Tokyo Dawn Labs, u-He
