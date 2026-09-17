@@ -7,7 +7,7 @@ Hello! 🌲⛰️🌊
 
 I'm Graham.  I build web applications, audio plugins, and sometimes work on games.
 
-Current interests include server apps with golang, design (in general), and native audio software.
+Current interests include servers, interface design, and native audio software.
 
 ## Likes
 
