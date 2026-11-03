@@ -7,11 +7,9 @@ Hello! 🌲⛰️🌊
 
 I'm Graham.  I build web applications, audio plugins, and sometimes work on games.
 
-Current interests include servers, interface design, and native audio software.
-
 ## Likes
 
-* Web tech: Astro, Templ, Datastar... React if need be
-* Servers: Go
+* Web tech: Astro, Templ, Datastar, React
+* Servers: Go, Node
 * AI: Pi, Herdr
-* Audio: Klanghelm, Aberrant DSP, Tokyo Dawn Labs, u-He
+* Audio: Klanghelm, Aberrant DSP, Tokyo Dawn Labs, Valhalla, Ableton
